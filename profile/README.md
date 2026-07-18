@@ -1,10 +1,15 @@
 <div align="center">
-  <h1>步天工程社</h1>
-  <p>简体中文 | <a href="README.en.md">English</a></p>
+  <h1>Butian Engineering Club</h1>
+  <p>English | <a href="README.zh-Hans.md">简体中文</a></p>
 </div>
 
-杭州第二中学步天工程社，是一个以航天工程与空间科学为核心方向的学生科技社团。
+The Butian Engineering Club at Hangzhou No. 2 High School is a student organization
+focused on aerospace engineering and space science.
 
-我们关注空间站设计、深空探测、太空定居、资源利用、能源系统与工程管理等前沿议题，通过项目研究、方案设计、竞赛实践与科普活动，将科学兴趣转化为系统化的工程表达。
+We explore space-station design, deep-space exploration, space settlement, resource
+utilization, energy systems, and engineering management. Research, system design,
+competitions, and outreach turn scientific curiosity into structured engineering work.
 
-在这里，成员不仅学习航天知识，更训练问题分析、技术写作、视觉呈现、团队协作与项目推进能力。我们希望以严谨的科学态度理解天空，以扎实的工程思维走向未来。
+Members develop technical knowledge together with problem analysis, technical writing,
+visual communication, teamwork, and project execution. We approach space with scientific
+rigor and build for the future with engineering discipline.
