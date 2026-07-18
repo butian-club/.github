@@ -7,10 +7,12 @@
   </p>
 </div>
 
+## 项目简介
+
 步天工程社的 GitHub 组织简介与社区健康文件单一来源。组织内仓库从这里继承 issue
 模板、PR 清单与安全策略，不在每个仓库重复维护。
 
-## 内容
+## 项目特性
 
 🏠 **组织简介** —— `profile/README.md` 会显示在组织主页，并提供完整简体中文镜像。
 
@@ -18,18 +20,20 @@
 
 🔒 **安全策略** —— 安全漏洞通过 GitHub 私密报告渠道提交，不在公开 issue 中披露。
 
-## 结构
+## 项目结构
 
-```text
+```bash
 .github/
-├── ISSUE_TEMPLATE/                 # 共享 issue 模板
-├── PULL_REQUEST_TEMPLATE.md        # 共享 PR 清单
-└── SECURITY.md                     # 私密漏洞报告策略
-profile/
-├── README.md                       # 英文组织简介
-└── README.zh-Hans.md               # 简体中文组织简介
+├── .github/
+│   ├── ISSUE_TEMPLATE/             # 共享 issue 模板
+│   ├── PULL_REQUEST_TEMPLATE.md    # 共享 PR 清单
+│   └── SECURITY.md                 # 私密漏洞报告策略
+├── profile/
+│   ├── README.md                   # 英文组织简介
+│   └── README.zh-Hans.md           # 简体中文组织简介
+└── LICENSE                         # 代码许可协议
 ```
 
-## 许可
+## 许可协议
 
-采用 [MIT License](LICENSE)。
+本项目代码采用 [MIT 许可协议](LICENSE)。

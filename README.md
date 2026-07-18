@@ -7,11 +7,13 @@
   </p>
 </div>
 
+## Project Introduction
+
 Shared GitHub profile and community-health defaults for the Butian Engineering Club.
 Repositories in the organization inherit the issue templates, pull-request checklist,
 and security policy from this single source.
 
-## Contents
+## Project Features
 
 🏠 **Organization profile** — `profile/README.md` is rendered on the organization page,
 with a complete Simplified Chinese counterpart.
@@ -22,18 +24,20 @@ reports actionable across repositories.
 🔒 **Security policy** — vulnerability reports are directed to GitHub's private reporting
 channel instead of public issues.
 
-## Structure
+## Project Structure
 
-```text
+```bash
 .github/
-├── ISSUE_TEMPLATE/                 # shared issue templates
-├── PULL_REQUEST_TEMPLATE.md        # shared PR checklist
-└── SECURITY.md                     # private vulnerability reporting
-profile/
-├── README.md                       # English organization profile
-└── README.zh-Hans.md               # 简体中文组织简介
+├── .github/
+│   ├── ISSUE_TEMPLATE/             # shared issue templates
+│   ├── PULL_REQUEST_TEMPLATE.md    # shared PR checklist
+│   └── SECURITY.md                 # private vulnerability reporting
+├── profile/
+│   ├── README.md                   # English organization profile
+│   └── README.zh-Hans.md           # Simplified Chinese organization profile
+└── LICENSE                         # Code license
 ```
 
 ## License
 
-Licensed under the [MIT License](LICENSE).
+This project's code is licensed under [MIT License](LICENSE).
